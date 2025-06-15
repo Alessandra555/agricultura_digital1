@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agricultura Digital</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Agricultura Digital no Campo</h1>
+        <p>Transformando o futuro da produção rural</p>
+    </header>
+
+    <section>
+        <h2>🌾 O que é Agricultura Digital?</h2>
+        <p>A agricultura digital utiliza tecnologias como sensores, drones, GPS, softwares e inteligência artificial para melhorar a produtividade, sustentabilidade e eficiência no campo.</p>
+    </section>
+
+    <section>
+        <h2>📈 Benefícios</h2>
+        <ul>
+            <li>Melhoria na tomada de decisões</li>
+            <li>Redução de desperdícios</li>
+            <li>Aumento da produtividade</li>
+            <li>Uso eficiente de recursos naturais</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>🔧 Tecnologias Utilizadas</h2>
+        <p>Sensores de solo, drones para monitoramento, softwares de gestão agrícola, GPS para mapeamento de lavouras, entre outros.</p>
+        <img src="https://images.unsplash.com/photo-1600359736261-3d3c1f6c9d6d" alt="Imagem de drone no campo" width="100%">
+    </section>
+
+    <footer>
+        <p>Projeto educacional - A importância da agricultura digital no campo © 2025</p>
+    </footer>
+</body>
+</html>
